@@ -1,0 +1,31 @@
+{
+    "towers": [
+      {
+        "name": "Basic Tower",
+        "object": "obj_tower_basic",
+        "cost": 50,
+        "range": 100,
+        "fire_rate": 1,
+        "damage": 10,
+        "sprite": "spr_tower_basic"
+      },
+      {
+        "name": "Fast Tower",
+        "object": "obj_tower_fast",
+        "cost": 75,
+        "range": 80,
+        "fire_rate": 0.5,
+        "damage": 5,
+        "sprite": "spr_tower_fast"
+      },
+      {
+        "name": "Heavy Tower",
+        "object": "obj_tower_heavy",
+        "cost": 100,
+        "range": 120,
+        "fire_rate": 2,
+        "damage": 20,
+        "sprite": "spr_tower_heavy"
+      }
+    ]
+  }
