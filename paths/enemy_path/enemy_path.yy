@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"enemy_path",
+  "closed":false,
+  "kind":0,
+  "name":"enemy_path",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":33.49994,"y":67.50003,},
+    {"speed":100.0,"x":900.5,"y":67.50003,},
+    {"speed":100.0,"x":900.5,"y":253.0,},
+    {"speed":100.0,"x":33.49994,"y":253.0,},
+    {"speed":100.0,"x":33.49994,"y":438.5,},
+    {"speed":100.0,"x":900.5,"y":438.5,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
