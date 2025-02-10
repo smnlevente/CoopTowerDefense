@@ -6,11 +6,6 @@ if (instance_exists(target))
     var dy = lengthdir_y(move_speed, angle);
     x += dx;
     y += dy;
-
-    if (place_meeting(x, y, obj_enemy)) 
-	{
-        instance_destroy();
-    }
 } 
 else 
 {

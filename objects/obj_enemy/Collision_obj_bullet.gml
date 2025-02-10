@@ -1,2 +1,7 @@
 hp -= other.damage;
-if (hp <= 0) instance_destroy();
+show_debug_message("Hit with damage: " +  string(other.damage));
+instance_destroy(other);
+if (hp <= 0) 
+{
+	instance_destroy();
+}
