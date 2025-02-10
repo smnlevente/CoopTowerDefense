@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bullet",
-  "eventList":[],
+  "%Name":"obj_buildable_area",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_bullet",
+  "name":"obj_buildable_area",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_bullet_parent",
-    "path":"objects/obj_bullet_parent/obj_bullet_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bullet",
-    "path":"sprites/spr_bullet/spr_bullet.yy",
+    "name":"spr_buildable_area",
+    "path":"sprites/spr_buildable_area/spr_buildable_area.yy",
   },
   "spriteMaskId":null,
   "visible":true,

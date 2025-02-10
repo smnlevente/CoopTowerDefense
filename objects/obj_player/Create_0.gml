@@ -1,2 +1,2 @@
 hp = 100;
-speedd = 4;
+movement_speed = 4;

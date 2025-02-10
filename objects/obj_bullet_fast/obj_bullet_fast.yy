@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bullet",
+  "%Name":"obj_bullet_fast",
   "eventList":[],
   "managed":true,
-  "name":"obj_bullet",
+  "name":"obj_bullet_fast",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bullet",
-    "path":"sprites/spr_bullet/spr_bullet.yy",
+    "name":"spr_bullet_fast",
+    "path":"sprites/spr_bullet_fast/spr_bullet_fast.yy",
   },
   "spriteMaskId":null,
   "visible":true,
